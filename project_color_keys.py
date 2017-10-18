@@ -49,7 +49,8 @@ onkeypress(left_arrow, "Left")
 onkeypress(right_arrow, "Right")
 listen()
 
-def on_key press(): # Undo/Clear
+def on_key press(): 
+# Undo/Clear
 onkeypress(back_space, "BackSpace")
 onkeypress(clear_game, "c")
 # Draw with Arrow Keys
