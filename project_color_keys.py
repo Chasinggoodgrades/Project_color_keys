@@ -58,6 +58,6 @@ onkeypress(up_arrow, "Up")
 onkeypress(down_arrow, "Down")
 onkeypress(left_arrow, "Left")
 onkeypress(right_arrow, "Right")
-listen() press():
+listen()
 
     
